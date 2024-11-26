@@ -4,7 +4,9 @@ import Home from './pages/Home';
 import PrivacyPolicy from './pages/PrivacyPolicy';
 import TermsConditions from './pages/TermsConditions';
 import FairPlayPolicy from './pages/FairPlayPolicy';
-import Install from './pages/Install';
+// import Install from './pages/Install';
+import NewInstall from './pages/NewInstall';
+
 
 function App() {
   
@@ -17,7 +19,7 @@ function App() {
           <Route path="/privacy-policy" element={<PrivacyPolicy />} />
           <Route path="/terms-conditions" element={<TermsConditions />} />
           <Route path="/fair-play-policy" element={<FairPlayPolicy />} />
-          <Route path="/install" element={<Install />} />
+          <Route path="/install" element={<NewInstall/>} />
         </Routes>
       </Router>
     </>

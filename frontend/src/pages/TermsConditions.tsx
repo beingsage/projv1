@@ -6,8 +6,8 @@ export default function TermsConditions() {
     <div className="min-h-screen bg-white">
       <Header />
       
-      <main className="max-w-4xl mx-auto px-4 py-12">
-        <h1 className="text-4xl font-bold text-center mb-12">Terms & Conditions</h1>
+      <main className="max-w-4xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
+        <h1 className="text-3xl sm:text-4xl font-bold text-center mb-8 sm:mb-12">Terms & Conditions</h1>
 
         
         <section className="mb-8">

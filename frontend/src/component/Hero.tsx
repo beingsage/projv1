@@ -31,7 +31,7 @@ export default function Hero() {
                   strategies, and get insights from fellow fans.
                 </p>
                 <button className="bg-[#4CAF50] hover:bg-[#45a049] text-white px-10 py-3 rounded-md text-lg font-medium transition-colors">
-                  Join now
+                  Download App
                 </button>
               </div>
     
@@ -49,14 +49,12 @@ export default function Hero() {
             <div className="absolute bottom-0 -left-12 right-0 bg-[#0a192f] w-[1527.5px] p-0 ">
               <div className="max-w-7xl mx-auto px-4 flex items-center justify-center space-x-16">
                 <p className="text-white text-center justify-center align-middle text-2xl font-medium tracking-wide">
-                  Scan the code to download the app now .
+                 Download the Cricket Opinion App Now and Start Predicting!
                 </p>
-                <div className="bg-white p-3 rounded-lg">
-                  <img
-                    src="/qr-code.png"
-                    alt="QR Code"
-                    className="w-20 h-20"
-                  />
+                <div className="bg-transparent p-3 rounded-lg h-28 text-center justify-center align-middle ">
+                <button className="bg-[#4CAF50] hover:bg-[#45a049] text-white px-10 py-3 rounded-md text-lg font-medium transition-colors ">
+                  Download App
+                </button>
                 </div>
               </div>
             </div>

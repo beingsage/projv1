@@ -6,8 +6,8 @@ export default function PrivacyPolicy() {
     <div className="min-h-screen bg-white">
       <Header />
       
-      <main className="max-w-4xl mx-auto px-4 py-12">
-        <h1 className="text-4xl font-bold text-center mb-12">Privacy Policy</h1>
+      <main className="max-w-4xl mx-auto px-4 py-8 sm:px-6 sm:py-12">
+        <h1 className="text-3xl sm:text-4xl font-bold text-center mb-8  sm:mb-12">Privacy Policy</h1>
 
        
         <section className="mb-8">
@@ -16,8 +16,8 @@ export default function PrivacyPolicy() {
           <p className="text-green-600">Consent: <span className="text-gray-700">By using our website, you consent to the terms of this Privacy Policy.</span></p>
         </section>
 
-        
-        <section className="mb-8">
+        <div className="space-y-8 sm:space-y-12">
+        <section className="prose prose-sm sm:prose-base max-w-none">
           <h2 className="text-2xl font-semibold mb-4">Information Collection</h2>
           <div className="space-y-4">
             <p>
@@ -32,7 +32,7 @@ export default function PrivacyPolicy() {
         </section>
 
       
-        <section className="mb-8">
+        <section className="prose prose-sm sm:prose-base max-w-none">
           <h2 className="text-2xl font-semibold mb-4">Use of Information</h2>
           <div className="space-y-4">
             <p>
@@ -50,7 +50,7 @@ export default function PrivacyPolicy() {
           </div>
         </section>
 
-        <section className="mb-8">
+        <section className="prose prose-sm sm:prose-base max-w-none">
           <h2 className="text-2xl font-semibold mb-4">Information Sharing</h2>
           <div className="space-y-4">
             <p>
@@ -68,7 +68,7 @@ adhere to strict confidentiality.</span>
           </div>
         </section>
 
-        <section className="mb-8">
+        <section className="prose prose-sm sm:prose-base max-w-none">
           <h2 className="text-2xl font-semibold mb-4">Data Security</h2>
           <div className="space-y-4">
             <p>
@@ -85,7 +85,7 @@ adhere to strict confidentiality.</span>
         </section>
 
 
-        <section className="mb-8">
+        <section className="prose prose-sm sm:prose-base max-w-none">
           <h2 className="text-2xl font-semibold mb-4">Data Retention</h2>
           <div className="space-y-4">
             <p>
@@ -102,7 +102,7 @@ adhere to strict confidentiality.</span>
         </section>
 
 
-        <section className="mb-8">
+        <section className="prose prose-sm sm:prose-base max-w-none">
           <h2 className="text-2xl font-semibold mb-4">User Rights</h2>
           <div className="space-y-4">
             <p>
@@ -119,7 +119,7 @@ adhere to strict confidentiality.</span>
         </section>
 
 
-        <section className="mb-8">
+        <section className="prose prose-sm sm:prose-base max-w-none">
           <h2 className="text-2xl font-semibold mb-4">Cookies and Tracking Technologies</h2>
           <div className="space-y-4">
             <p>
@@ -136,7 +136,7 @@ adhere to strict confidentiality.</span>
         </section>
 
 
-        <section className="mb-8">
+        <section className="prose prose-sm sm:prose-base max-w-none">
           <h2 className="text-2xl font-semibold mb-4">Updates to This Policy</h2>
           <div className="space-y-4">
             <p>
@@ -156,7 +156,7 @@ adhere to strict confidentiality.</span>
 
         
         
-        <section className="mb-8">
+        <section className="prose prose-sm sm:prose-base max-w-none">
           <h2 className="text-2xl font-semibold mb-4">Contact Us</h2>
           <p>
             <span className="text-green-600">Inquiries:</span>
@@ -164,6 +164,7 @@ adhere to strict confidentiality.</span>
             <a href="mailto:support@cricketopinio.com" className="text-[#8B0000] hover:underline">support@cricketopinio.com</a>
           </p>
         </section>
+        </div>
       </main>
 
       <Footer />

@@ -1,0 +1,454 @@
+<!DOCTYPE html>
+<!-- saved from url=(0064)https://www.sportsbaazi.com/lp/fantasy-cricket-app/?gad_source=1 -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<!--====== Required meta tags ======-->
+
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+<!--====== Title ======-->
+<title>SportsBaazi : Online Fantasy Sports &amp; More</title>
+<!--====== Favicon Icon ======-->
+<link rel="shortcut icon" href="https://www.sportsbaazi.com/assets/images/header-footer-img/favicon.png" type="image/png">
+<!--====== Bootstrap css ======-->
+<link rel="stylesheet" href="./SportsBaazi _ Online Fantasy Sports &amp; More_files/bootstrap.min.css">
+<link rel="stylesheet" href="./SportsBaazi _ Online Fantasy Sports &amp; More_files/slick.css">
+<link rel="stylesheet" href="./SportsBaazi _ Online Fantasy Sports &amp; More_files/font-awesome.min.css">
+<link rel="stylesheet" href="./SportsBaazi _ Online Fantasy Sports &amp; More_files/owl.carousel.min.css">
+<!--====== Style css ======-->
+<link rel="stylesheet" href="./SportsBaazi _ Online Fantasy Sports &amp; More_files/style.css">
+<!--     Global site tag (gtag.js) - Google Analytics 
+    -->
+<script async="" src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/gtm.js.download"></script><script async="" src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/js"></script>
+<script>
+            window.dataLayer = window.dataLayer || [];
+            function gtag() {
+                dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'UA-114153415-1');
+        </script>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-WPTVFFN');</script>
+<!-- End Google Tag Manager -->
+<style>
+.d-flex{ display:flex; }
+.ballebaazi_play .btn_bord span {
+    margin-bottom: 15px;
+}
+ul.btn_bord{ list-style-type:revert;padding-left: 15px;}
+.ballebaazi_play .footer_button {
+    text-align: center;
+    padding: 5px 10px;
+    margin: 15px auto; margin-bottom:0;
+    cursor: pointer;
+    font-size: .75rem;
+    background-color: #39875f;
+    border: 1px solid #39875f;
+    border-radius: 4px;
+    color: #fff;
+    width: 100%;
+    height: 35px;
+    font-weight: 700;
+    text-transform: uppercase;
+    line-height: 23px;
+}
+.container {
+    width: 100%;
+    margin-right: auto;
+    margin-left: auto;
+}
+.ballebaazi_play .header {
+    margin-top: 0;
+}
+.slider_area .slick-list {
+    height: auto;
+}
+ol, ul{font-size: .75rem!important;
+    font-weight: 400;
+    color: #676e7c;}
+ol{list-style-type: decimal;
+    padding-left: 15px;}
+@media (min-width: 1200px){
+.container {
+    max-width: 1143px;
+}
+}
+
+.ballebaazi_play .review_box ul {
+   
+    margin-bottom: 46px!important;
+}
+
+
+</style>
+</head>
+<body style=" padding-top: 2rem;">
+<!-- Google Tag Manager (noscript) -->
+<noscript>
+<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WPTVFFN"
+height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+
+
+<div class="ballebaazi_play">
+  <div class="container">
+    <div class="imageSection">
+      <div class="header">
+        <div class="head_l"> <img src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/ballebaazi--692.jpg" alt="logo" style="height: 65px;
+    width: 65px;"> </div>
+        <div class="head_r">
+          <h2> SportsBaazi Fantasy Cricket App </h2>
+          <h3>Best Sports Gaming Experience </h3>
+		 <div class="developer">
+              <span class="tag is-rounded">Lowest Commission</span><span class="tag is-rounded">Multiple Fantasy Formats</span><span class="tag is-rounded">Trusted by 1 Crore+ Sports Fans</span>
+            </div>
+          <!--<div class="developer" style="margin-top:5px;"><span class="tag is-rounded">Predictor Polls</span><span class="tag is-rounded"> Predictor Leagues</span></div>-->
+        </div>
+      </div>
+    </div>
+    <div class="play_header">
+      <div class="play_active slick-initialized slick-slider">
+        <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1116px; transform: translate3d(0px, 0px, 0px);"><div class="play_step slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 279px;" tabindex="0"> <span> 4.3<img src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/download.svg" width="12" class="icon-format"></span>
+          <p style="margin-top:-7px;">5k Reviews</p>
+        </div><div class="play_step slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 279px;" tabindex="0"> <span style="background-color: #000;height: 16px;width: 16px;border-radius: 1px;text-align: center;"> <img src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/download.png" width="14" class="icon-format"></span>
+          <p>35 MB</p>
+        </div><div class="play_step slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 279px;" tabindex="0"> <span> <img src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/18@2x.png" width="20" class="icon-format"></span>
+          <p>Rated for 18+ </p>
+        </div><div class="play_step slick-slide slick-active" data-slick-index="3" aria-hidden="false" style="width: 279px;" tabindex="0"> <span> <!--<img src="../../assets/download_assests/images/1M@2x.png" width="22" class="icon-format">--><strong>10M+</strong></span>
+          <p>Downloads</p>
+        </div></div></div>
+        
+        
+        
+      </div>
+    </div>
+    <div class="footer_button" onclick="download()" style="cursor:pointer;" id="gtm_install">INSTALL </div>
+  </div>
+  <div class="container">
+    <div class="slider_area">
+      <div class="slider_active slick-initialized slick-slider">
+        <div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 1113px; transform: translate3d(0px, 0px, 0px);"><div class="slide_play slick-slide slick-current slick-active" data-slick-index="0" aria-hidden="false" style="width: 359px;" tabindex="0"> <img src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/ballebaazi--913.jpg" class="icon-format"> </div><div class="slide_play slick-slide slick-active" data-slick-index="1" aria-hidden="false" style="width: 359px;" tabindex="0"> <img src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/ballebaazi--914.jpg" class="icon-format"> </div><div class="slide_play slick-slide slick-active" data-slick-index="2" aria-hidden="false" style="width: 359px;" tabindex="0"> <img src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/ballebaazi--915.jpg" class="icon-format"> </div></div></div>
+        
+        
+	
+		        
+
+      </div>
+    </div>
+    <div class="about_area">
+      <h3>About this App</h3>
+      <p>Iss Indian T20 Season, get the maxx value for your skills, only on SportsBaazi.com.  </p>
+	 
+	 
+	      <hr style="margin:15px 0;"> 
+		  <p><strong class="d-flex"><img class="ratingStar-small" src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/download.svg"> Play Multiple Fantasy Formats </strong> 
+Why play just Classic Fantasy elsewhere when you can also play Batting, Bowling and Innings Fantasy on SportsBaazi. WIN Max with your Fantasy Cricket skills.  
+		  </p><br>
+		  <p><strong class="d-flex"><img class="ratingStar-small" src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/download.svg"> Low Buy-ins, Big Winnings</strong> 
+         Play a wide variety of leagues and get big winnings with small buy-ins, only on SportsBaazi.   
+		  </p><br>
+		  <p><strong class="d-flex"><img class="ratingStar-small" src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/download.svg"> Usable Bonus </strong> 
+        Unlike other platforms, our bonus is actually usable. Join a league of your choice with a Flat 50% bonus.  
+		  </p>
+		 
+		
+		  
+	      <hr style="margin:15px 0;"> 
+
+	        <h3>What’s New</h3>
+
+      <ul class="btn_bord">
+	  <li>Join Leagues with Flat 50% Bonus </li>
+	  <li>Join Mega Leagues at Low Buy-ins</li>
+	  <li>Personalized Support </li>
+	  </ul>
+
+
+
+    </div>
+    <hr>
+    <div class="rating_download_box">
+      <h3>Ratings</h3>
+      <div class="maxw">
+        <div class="w30">
+          <p class=" font3">4.5</p>
+          <div class="reviewsCount-flex">
+            <div class="ratings-dynamic">
+              <div class="empty-stars"></div>
+              <div class="full-stars" style="width:94%"></div>
+            </div>
+            <p class="reviews-count"><span>1,054</span></p>
+          </div>
+        </div>
+        <div class="w70">
+          <div class="flexBar"><span class="is-size-7">5</span> &nbsp;&nbsp;
+            <div class="progress">
+              <div class="progressWidth5 progressWidth"></div>
+            </div>
+          </div>
+          <div class="flexBar"><span class="is-size-7">4</span> &nbsp;&nbsp;
+            <div class="progress">
+              <div class="progressWidth4 progressWidth"></div>
+            </div>
+          </div>
+          <div class="flexBar"><span class="is-size-7">3</span> &nbsp;&nbsp;
+            <div class="progress">
+              <div class="progressWidth3 progressWidth"></div>
+            </div>
+          </div>
+          <div class="flexBar"><span class="is-size-7">2</span> &nbsp;&nbsp;
+            <div class="progress">
+              <div class="progressWidth2 progressWidth"></div>
+            </div>
+          </div>
+          <div class="flexBar"><span class="is-size-7">1</span> &nbsp;&nbsp;
+            <div class="progress">
+              <div class="progressWidth1 progressWidth"></div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="additional-stats">
+        <div class="gameplay">
+          <p class="is-size-7 mar-8">Gameplay
+            <!-- -->
+          </p>
+          <p><span class="has-text-black size-14">4.8</span><span style="margin-left:2px"><img class="ratingStar-small" src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/download.svg"></span></p>
+        </div>
+        <div class="controls">
+          <p class="is-size-7 mar-8">Controls</p>
+          <p><span class="has-text-black size-14">4.9</span><span style="margin-left:2px"><img class="ratingStar-small" src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/download.svg"></span></p>
+        </div>
+        <div class="graphics">
+          <p class="is-size-7 mar-8">Graphics</p>
+          <p><span class="has-text-black size-14">4.8</span><span style="margin-left:2px"><img class="ratingStar-small" src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/download.svg"></span></p>
+        </div>
+      </div>
+      <hr>
+    </div>
+    <div class="review_box">
+      <h3>Reviews</h3>
+      <ul>
+        <li>
+          <div class="user_box">
+            <p class="initials is-size-7 green">S</p>
+            <div class="user_info">
+              <div class="user_name">Suraj Rishi </div>
+              <div class="stars is-size-7 has-text-grey">
+                <div class="ratings-dynamic">
+                  <div class="empty-stars"></div>
+                  <div class="full-stars" style="width: 100%;"></div>
+                </div>
+                 1/02/ 2023</div>
+              <div class="user_review has-text-grey">Itne saare fantasy formats kahin aur nahi milti. Leagues bi trah trah ki hai. Sab jit skate hain.  </div>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="user_box">
+            <p class="initials is-size-7 grey">m</p>
+            <div class="user_info">
+              <div class="user_name">Mayank Bhan </div>
+              <div class="stars is-size-7 has-text-grey">
+                <div class="ratings-dynamic">
+                  <div class="empty-stars"></div>
+                  <div class="full-stars" style="width:100%"></div>
+                </div>
+               3/02/ 2023</div>
+              <div class="user_review has-text-grey">Ankit bhaiya hamesha help karte hain. Mere hisab se offers bana dete hain.  
+              </div>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="user_box">
+            <p class="initials is-size-7 grey">g</p>
+            <div class="user_info">
+              <div class="user_name">Gopal Patel </div>
+              <div class="stars is-size-7 has-text-grey">
+                <div class="ratings-dynamic">
+                  <div class="empty-stars"></div>
+                  <div class="full-stars" style="width:80%"></div>
+                </div>
+               17/02/ 2023</div>
+              <div class="user_review has-text-grey">Good ap to win extra. Commission also low.
+              </div>
+            </div>
+          </div>
+        </li>
+   
+        <li>
+          <div class="user_box">
+            <p class="initials is-size-7 grey">m</p>
+            <div class="user_info">
+              <div class="user_name">Monu Raja </div>
+              <div class="stars is-size-7 has-text-grey">
+                <div class="ratings-dynamic">
+                  <div class="empty-stars"></div>
+                  <div class="full-stars" style="width:100%"></div>
+                </div>
+                1/02/2023 </div>
+              <div class="user_review has-text-grey"> Sabse badhiya app hai SportsBaazi. Har time koi na koi offer chalta rehta hai. 
+ </div>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="user_box">
+            <p class="initials is-size-7 green">p</p>
+            <div class="user_info">
+              <div class="user_name">Pinky Yadav </div>
+              <div class="stars is-size-7 has-text-grey">
+                <div class="ratings-dynamic">
+                  <div class="empty-stars"></div>
+                  <div class="full-stars" style="width:100%"></div>
+                </div>
+                5/02/ 2023</div>
+              <div class="user_review has-text-grey"> SportsBaazi is a game-changer! Low competition and low commission makes it the best. 
+              </div>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="user_box">
+            <p class="initials is-size-7 green">s</p>
+            <div class="user_info">
+              <div class="user_name">Shyamal Singh </div>
+              <div class="stars is-size-7 has-text-grey">
+                <div class="ratings-dynamic">
+                  <div class="empty-stars"></div>
+                  <div class="full-stars" style="width:80%"></div>
+                </div>
+                18/02/ 2023 </div>
+              <div class="user_review has-text-grey"> Fantasy bahut apps par kheli lekin iss app se badhiya support kahi nahi mila. Best hai SportsBaazi. </div>
+            </div>
+          </div>
+        </li>
+        
+        
+        <li>
+          <div class="user_box">
+            <p class="initials is-size-7 grey">u</p>
+            <div class="user_info">
+              <div class="user_name">Utsav Khandelwal </div>
+              <div class="stars is-size-7 has-text-grey">
+                <div class="ratings-dynamic">
+                  <div class="empty-stars"></div>
+                  <div class="full-stars" style="width:60%"></div>
+                </div>
+                 20/02/ 2023 </div>
+              <div class="user_review has-text-grey">Fantasy ke mega leagues meri favourite hai. Aur badi leagues le ke aao. </div>
+            </div>
+          </div>
+        </li>
+        
+        <li>
+          <div class="user_box">
+            <p class="initials is-size-7 pink">a</p>
+            <div class="user_info">
+              <div class="user_name">Ankit Gupta </div>
+              <div class="stars is-size-7 has-text-grey">
+                <div class="ratings-dynamic">
+                  <div class="empty-stars"></div>
+                  <div class="full-stars" style="width:100%"></div>
+                </div>
+                 16/02/ 2023 </div>
+              <div class="user_review has-text-grey">SportsBaazi par khel ke maine kaafi paise aur rewards jeete hain.  
+</div>
+            </div>
+          </div>
+        </li>
+        <li>
+          <div class="user_box">
+            <p class="initials is-size-7 green">v</p>
+            <div class="user_info">
+              <div class="user_name">Vikram Singh </div>
+              <div class="stars is-size-7 has-text-grey">
+                <div class="ratings-dynamic">
+                  <div class="empty-stars"></div>
+                  <div class="full-stars" style="width:80%"></div>
+                </div>
+                 18/02/ 2023</div>
+              <div class="user_review has-text-grey">SportsBaazi is a fantastic app for cricket lovers. Fantasy league is just amazing. Love to play here. 
+</div>
+            </div>
+          </div>
+        </li>
+        
+       
+      </ul>
+    </div>
+  </div>
+</div>
+<div class="install-button-bottom sticky-install-button" onclick="download()" style="
+cursor:pointer;"><a>
+  <button class="weight-500">INSTALL</button>
+  </a></div>
+  <!-- <div id="myModal" class="modal fade" role="dialog">
+  <div class="modal-dialog"> -->
+
+    <!-- Modal content
+    <div class="modal-content">
+      
+      <div id="free-gems-backdrop">
+  <div id="free-gems-popup">
+    <div class="close">
+      <div><button type="button" class="close" data-dismiss="modal">&times;</button></div>
+    </div>
+    <span style="font-size: 16px;color:#ffd801;text-align: center;text-transform: uppercase;font-weight: bold;">Rahul joined a league & <br>
+    won ₹25,000</span><hr><span style="margin-top: 5px; text-align: center;">You could be next!<br>
+Make your teams now!</span>
+<p ><span style="font-size:18px; font-weight:bold; color:#fff; margin-top:5px;">League starts in</span></p>
+                    <div id="clock-b" class="timer"></div>
+    
+    <p><img src="img/League_img.png" width="219" style="margin: 25px 0 20px 0;"></p>
+	<p onclick="download();" style="
+cursor:pointer;"> <img src="img/install_btn.png" width="116"></p>
+    <span style="margin-top: 10px; text-align:center;">Money withdrawn today:
+₹5,42,375</span></div>
+</div>
+      
+    </div> -->
+
+  <!-- </div>
+</div> -->
+<!--====== jquery js ======-->
+<script src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/jquery-1.12.4.min.js.download"></script>
+<script src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/customaws.js.download"></script>
+<script src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/bootstrap.min.js.download"></script>
+<script src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/slick.min.js.download"></script>
+<script src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/main.js.download"></script>
+<script>
+//             $(document).ready(function(){
+//               window.location.href = download_apk_url;
+//            });
+    function download(){
+      var userAgent = navigator.userAgent || navigator.vendor || window.opera;
+      if (/iPad|iPhone|iPod|Macintosh/.test(userAgent) && !window.MSStream) {
+        window.location.assign("https://apps.apple.com/in/app/sportsbaazi-fantasy-app/id1438726846");
+      } else {
+        window.location.href = download_apk_url;     
+      }
+    }
+
+ $(window).on('scroll', function (event) {
+        var scroll = $(window).scrollTop();
+        if (scroll < 200) {
+            $(".sticky-install-button").removeClass("sticky");
+        } else {
+            $(".sticky-install-button").addClass("sticky");
+        }
+    });
+</script>
+
+	<script src="./SportsBaazi _ Online Fantasy Sports &amp; More_files/bootstrap.bundle.min.js.download"></script>
+<!-- <script src="jquery.countdown.min.js"></script> -->
+
+
+
+</body></html>

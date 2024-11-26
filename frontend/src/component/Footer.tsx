@@ -1,14 +1,45 @@
-import facebook from '../assets/facebook.png'
-import instagram from '../assets/instagram.png'
-import twitter from '../assets/twitter.png'
-import youtube from '../assets/youtube.png'
+// import facebook from '../assets/facebook.png'
+// import instagram from '../assets/instagram.png'
+// import twitter from '../assets/twitter.png'
+// import youtube from '../assets/youtube.png'
 import paytm from '../assets/paytm.png'
 import amazonpay from '../assets/amazonpay.png'
 import upi from '../assets/upi.png'
 import bank from '../assets/bank.png'
 import logo from '../assets/Group13.png'
+import { FloatingDock } from '../components/ui/floating-dock'
+import { 
+  IconBrandFacebook, 
+  IconBrandInstagram, 
+  IconBrandTwitter, 
+  IconBrandYoutube 
+} from '@tabler/icons-react'
+
 
 export default function Footer() {
+  const socialMediaItems = [
+    {
+      title: "Facebook",
+      icon: <IconBrandFacebook className="h-full w-full text-white hover:text-blue-600" />,
+      href: "#facebook"
+    },
+    {
+      title: "Instagram",
+      icon: <IconBrandInstagram className="h-full w-full text-white hover:text-pink-600" />,
+      href: "#instagram"
+    },
+    {
+      title: "Twitter",
+      icon: <IconBrandTwitter className="h-full w-full text-white hover:text-blue-400" />,
+      href: "#twitter"
+    },
+    {
+      title: "YouTube",
+      icon: <IconBrandYoutube className="h-full w-full text-white hover:text-red-600" />,
+      href: "#youtube"
+    }
+  ];
+
   return (
     <footer className="bg-[#0E233C] text-white py-8 px-8">
       <div className="max-w-7xl mx-auto">
@@ -42,15 +73,14 @@ export default function Footer() {
 
           {/* Social Media & Payment Methods */}
           <div className="space-y-8">
-            {/* Social Media */}
+            {/* Social Media with Floating Dock */}
             <div>
               <h3 className="text-xl font-semibold mb-4 text-[#E5B94D]">Social Media</h3>
-              <div className="flex space-x-4">
-                <a href="#" className="hover:opacity-80"><img src={facebook} alt="Facebook" className="w-8 h-8" /></a>
-                <a href="#" className="hover:opacity-80"><img src={instagram} alt="Instagram" className="w-8 h-8" /></a>
-                <a href="#" className="hover:opacity-80"><img src={twitter} alt="Twitter" className="w-8 h-8" /></a>
-                <a href="#" className="hover:opacity-80"><img src={youtube} alt="YouTube" className="w-8 h-8" /></a>
-              </div>
+              <FloatingDock 
+                items={socialMediaItems}
+                desktopClassName="bg-transparent dark:bg-transparent"
+                mobileClassName="relative"
+              />
             </div>
 
             {/* Payment Methods */}
@@ -72,7 +102,7 @@ export default function Footer() {
         </div>
 
         {/* Copyright */}
-        <div className="text-center text-sm text-gray-400 ">
+        <div className="text-center text-sm text-gray-400">
           © 2024 Cricket Opinio. All rights reserved
         </div>
       </div>
