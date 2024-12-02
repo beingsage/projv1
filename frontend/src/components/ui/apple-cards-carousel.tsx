@@ -27,6 +27,8 @@ type Card = {
   title: string;
   category: string;
   content: React.ReactNode;
+  isVideo?: boolean;
+  VideoComponent?: () => JSX.Element;
 };
 
 export const CarouselContext = createContext<{
@@ -195,7 +197,7 @@ export const Card = ({
       <motion.button
         layoutId={layout ? `card-${card.title}-${index}` : undefined}
         onClick={handleOpen}
-        className="rounded-3xl bg-gray-100 dark:bg-neutral-900 h-[28rem] w-[20rem] overflow-hidden flex flex-col items-start justify-start relative z-0 transition-all duration-300 hover:scale-105"
+        className="rounded-3xl bg-gray-100 dark:bg-neutral-900 h-[35rem] w-full overflow-hidden flex flex-col items-start justify-start relative z-0 transition-all duration-300 hover:scale-105"
       >
         <div className="absolute h-full top-0 inset-x-0 bg-gradient-to-b from-black/50 via-transparent to-transparent z-30 pointer-events-none" />
         <div className="relative z-40 p-8">
@@ -212,12 +214,16 @@ export const Card = ({
             {card.title}
           </motion.p>
         </div>
-        <BlurImage
-          src={card.src}
-          alt={card.title}
-          fill
-          className="object-cover absolute z-10 inset-0"
-        />
+        {card.VideoComponent ? (
+          <card.VideoComponent />
+        ) : (
+          <BlurImage
+            src={card.src}
+            alt={card.title}
+            fill
+            className="object-cover absolute z-10 inset-0"
+          />
+        )}
       </motion.button>
     </>
   );

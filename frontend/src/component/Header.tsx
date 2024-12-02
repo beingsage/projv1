@@ -1,10 +1,12 @@
-import logo from '../assets/Group13.png';
+// import logo from '../assets/Group13.png';
+import logo from '../assets/logo2.jpeg'
 export default function Header() {
   return (
-    <nav className="bg-[#0a192f] px-8 py-4">
+    // <nav className="bg-[#0a192f] px-8 py-4">
+    <nav className="bg-[#2D2D2D] px-8 py-4">
       <div className="max-w-7xl mx-auto flex  items-center ml-9">
-        <div className="flex-shrink-0 mr-8">
-          <img src={logo} alt="Opinio Logo" className="h-10" />
+        <div className="flex-shrink-0 mr-8 object-fill">
+          <img src={logo} alt="Opinio Logo" className="h-10 object-fill" />
         </div>
         
         <div className="hidden md:flex space-x-8 mr-auto">

@@ -116,8 +116,8 @@ export default function Testimonials() {
 
 
 
-        <section className="py-16 bg-white relative">
-        <div className="max-w-7xl mx-auto px-4">
+        <section className="py-0  relative bg-[#FFFFFF]">
+        <div className="max-w-7xl mx-auto px-4 bg-[#FFFFFF]">
             {/* <h2 className="text-4xl font-bold text-center mb-16 text-[#0a192f]">
                 USER TESTIMONIALS
             </h2> */}
@@ -125,6 +125,7 @@ export default function Testimonials() {
             <AnimatedTestimonials 
                 testimonials={testimonials}
                 autoplay={true}
+                
             />
         </div>
     </section>

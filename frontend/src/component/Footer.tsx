@@ -6,7 +6,8 @@ import paytm from '../assets/paytm.png'
 import amazonpay from '../assets/amazonpay.png'
 import upi from '../assets/upi.png'
 import bank from '../assets/bank.png'
-import logo from '../assets/Group13.png'
+// import logo from '../assets/Group13.png'
+import logo2 from '../assets/logo22.png'
 import { FloatingDock } from '../components/ui/floating-dock'
 import { 
   IconBrandFacebook, 
@@ -41,12 +42,12 @@ export default function Footer() {
   ];
 
   return (
-    <footer className="bg-[#0E233C] text-white py-8 px-8">
+    <footer className="bg-[#2D2D2D] text-white py-8 px-8">
       <div className="max-w-7xl mx-auto">
         {/* Main Footer Content */}
         <div className="flex justify-between items-start mb-8">
           <div>
-            <img src={logo} alt="Cricket Opinio Logo" className="w-24 h-24 rounded-2xl" />
+            <img src={logo2} alt="Cricket Opinio Logo" className="w-24 h-24 rounded-2xl" />
           </div>
           {/* Company Information */}
           <div>
