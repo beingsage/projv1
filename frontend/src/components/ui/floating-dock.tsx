@@ -15,10 +15,19 @@ import {
 } from "framer-motion";
 import { useRef, useState } from "react";
 
-const Link = ({ href, children, ...props }: { href: string; children: React.ReactNode }) => (
-  <a href={href} {...props}>
-    {children}
-  </a>
+const Link = ({ 
+    href, 
+    children, 
+    className,
+    ...props 
+}: { 
+    href: string; 
+    children: React.ReactNode;
+    className?: string;
+}) => (
+    <a href={href} className={className} {...props}>
+        {children}
+    </a>
 );
 
 interface FloatingDockProps {

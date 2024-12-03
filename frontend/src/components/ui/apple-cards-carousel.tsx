@@ -6,20 +6,20 @@ import React, {
   createContext,
   useContext,
 } from "react";
-import {
-  IconArrowNarrowLeft,
-  IconArrowNarrowRight,
-  IconX,
-} from "@tabler/icons-react";
-import { cn } from "../../lib/utils";
+// import {
+//   IconArrowNarrowLeft,
+//   IconArrowNarrowRight,
+//   IconX,
+// } from "@tabler/icons-react";
+// import { cn } from "../../lib/utils";
 import { AnimatePresence, motion } from "framer-motion";
 // import Image, { ImageProps } from "next/image";
 import { BlurImage } from './blur-image';
 import { useOutsideClick } from "../../hooks/use-outside-click";
+import { X } from "lucide-react";
 
 interface CarouselProps {
   items: JSX.Element[];
-  initialScroll?: number;
 }
 
 type Card = {
@@ -39,7 +39,7 @@ export const CarouselContext = createContext<{
   currentIndex: 0,
 });
 
-export const Carousel = ({ items, initialScroll = 0 }: CarouselProps) => {
+export const Carousel = ({ items }: CarouselProps) => {
   const carouselRef = React.useRef<HTMLDivElement>(null);
   const [currentIndex, setCurrentIndex] = useState(0);
 
@@ -122,7 +122,7 @@ export const Card = ({
 }) => {
   const [open, setOpen] = useState(false);
   const containerRef = useRef<HTMLDivElement>(null);
-  const { onCardClose, currentIndex } = useContext(CarouselContext);
+  const { onCardClose } = useContext(CarouselContext);
 
   useEffect(() => {
     function onKeyDown(event: KeyboardEvent) {
@@ -175,7 +175,7 @@ export const Card = ({
                 className="sticky top-4 h-8 w-8 right-0 ml-auto bg-black dark:bg-white rounded-full flex items-center justify-center"
                 onClick={handleClose}
               >
-                <IconX className="h-6 w-6 text-neutral-100 dark:text-neutral-900" />
+                <X className="h-6 w-6 text-neutral-100 dark:text-neutral-900" />
               </button>
               <motion.p
                 layoutId={layout ? `category-${card.title}` : undefined}

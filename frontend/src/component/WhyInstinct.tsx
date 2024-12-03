@@ -90,7 +90,7 @@ import apple3 from '../assets/apple3.jpg';
 //     );
 // }
 
-import { useState } from 'react';
+// import { useState } from 'react';
 
 interface ShowCard {
   title: string;

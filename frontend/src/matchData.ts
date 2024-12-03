@@ -1,11 +1,11 @@
 import team1Image from './assets/team1.jpg';
-import team2Image from './assets/team2.jpg';
-import team3Image from './assets/team3.jpg';
-import team4Image from './assets/team4.jpg';
+// import team2Image from './assets/team2.jpg';
+// import team3Image from './assets/team3.jpg';
+// import team4Image from './assets/team4.jpg';
 import team5Image from './assets/team5.jpg';
 import team6Image from './assets/team6.jpg';
 import team7Image from './assets/team7.jpg';
-import team8Image from './assets/team8.jpg';
+// import team8Image from './assets/team8.jpg';
 export interface Match {
     matchId: number;
     seriesId: number;

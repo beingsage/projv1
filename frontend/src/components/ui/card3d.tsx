@@ -57,7 +57,7 @@
 
 "use client";
 
-import React from "react";
+// import React from "react";
 import { CardBody, CardContainer, CardItem } from "./3d-card";
 
 export function ThreeDCardDemo() {
