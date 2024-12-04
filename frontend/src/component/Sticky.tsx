@@ -27,7 +27,7 @@ export default function Sticky() {
         <div className="fixed bottom-0 left-0 right-0 bg-[#2D2D2D] w-full p-0 z-50">
             <div className="max-w-7xl mx-auto px-4 flex items-center justify-center space-x-16">
                 <p className="text-slate-400 text-center justify-center align-middle text-2xl font-medium tracking-wide">
-                    Download the Cricket Opinion App Now and Start Predicting!
+                    Download the Buzzaar App Now and Start Predicting!
                 </p>
                 <div className="bg-transparent p-3 rounded-lg h-28 text-center justify-center align-middle">
                     <input

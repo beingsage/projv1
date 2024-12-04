@@ -9,8 +9,8 @@ export default function Header() {
           <img src={logo} alt="Opinio Logo" className="h-10 object-fill" />
         </div>
         
-        <div className="hidden md:flex space-x-8 mr-auto">
-          <a href="/" className="text-white hover:text-gray-300 transition-colors">
+         <div className="hidden md:flex space-x-8 mr-auto">
+          {/* <a href="/" className="text-white hover:text-gray-300 transition-colors">
             Home
           </a>
           <a href="/featured" className="text-white hover:text-gray-300 transition-colors">
@@ -21,8 +21,8 @@ export default function Header() {
           </a>
           <a href="/how-it-works" className="text-white hover:text-gray-300 transition-colors">
             How It Works
-          </a>
-        </div>
+          </a> */}
+        </div> 
 
         <div>
           <button className="bg-green-500 hover:bg-green-600 text-white px-6 py-2 rounded-md transition-colors ">

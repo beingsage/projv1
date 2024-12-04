@@ -2,10 +2,10 @@
 // import instagram from '../assets/instagram.png'
 // import twitter from '../assets/twitter.png'
 // import youtube from '../assets/youtube.png'
-import paytm from '../assets/paytm.png'
-import amazonpay from '../assets/amazonpay.png'
-import upi from '../assets/upi.png'
-import bank from '../assets/bank.png'
+// import paytm from '../assets/paytm.png'
+// import amazonpay from '../assets/amazonpay.png'
+// import upi from '../assets/upi.png'
+// import bank from '../assets/bank.png'
 // import logo from '../assets/Group13.png'
 import logo2 from '../assets/logo22.png'
 import { FloatingDock } from '../components/ui/floating-dock'
@@ -53,10 +53,9 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-semibold mb-4 text-[#E5B94D]">Company Information</h3>
             <ul className="space-y-2">
-              <li><a href="/terms" className="hover:text-gray-300">Terms & Conditions</a></li>
-              <li><a href="/privacy" className="hover:text-gray-300">Privacy Policy</a></li>
-              <li><a href="/withdrawal" className="hover:text-gray-300">Withdrawal Policy</a></li>
-              <li><a href="/fairplay" className="hover:text-gray-300">Fairplay Policy</a></li>
+              <li><a href="/terms-conditions" className="hover:text-gray-300">Terms & Conditions</a></li>
+              <li><a href="/privacy-policy" className="hover:text-gray-300">Privacy Policy</a></li>
+              <li><a href="/fair-play-policy" className="hover:text-gray-300">Fairplay Policy</a></li>
             </ul>
           </div>
 
@@ -64,11 +63,7 @@ export default function Footer() {
           <div>
             <h3 className="text-xl font-semibold mb-4 text-[#E5B94D]">Quick Links</h3>
             <ul className="space-y-2">
-              <li><a href="/about" className="hover:text-gray-300">About Us</a></li>
-              <li><a href="/faqs" className="hover:text-gray-300">FAQs</a></li>
-              <li><a href="/blog" className="hover:text-gray-300">Blog</a></li>
-              <li><a href="/help" className="hover:text-gray-300">Help Center</a></li>
-              <li><a href="/refer" className="hover:text-gray-300">Refer & Earn</a></li>
+              <li><a href="/install" className="hover:text-gray-300">Install App</a></li>
             </ul>
           </div>
 
@@ -85,7 +80,7 @@ export default function Footer() {
             </div>
 
             {/* Payment Methods */}
-            <div>
+            {/* <div>
               <h3 className="text-xl font-semibold mb-4 text-[#E5B94D]">Payment Methods</h3>
               <div className="flex space-x-4">
                 <img src={paytm} alt="Paytm" className="h-8" />
@@ -93,7 +88,7 @@ export default function Footer() {
                 <img src={upi} alt="UPI" className="h-8" />
                 <img src={bank} alt="Bank Transfer" className="h-8" />
               </div>
-            </div>
+            </div> */}
           </div>
         </div>
 
